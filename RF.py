@@ -151,7 +151,7 @@ train_errors = [0.0]*times
 test_errors = [0.0]*times
 rfregs = list()
 
-n_fold = 5
+n_fold = 10
 
 for i in range(0,times):
     kf = KFold(n_splits = n_fold)
