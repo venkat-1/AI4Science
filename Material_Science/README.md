@@ -17,7 +17,7 @@ Do the following before you come to the tutorial:
 *  We will be using notebooks from this repository during the tutorial, so  you should be familiar with how to import them into Colaboratory
 *  Now you can open the `File` menu at the top left and select `Open Notebook` which will open a dialogue box.
 *  Select the `GitHub` tab in the dialogue box.
-*  From here you can enter the url for the github repo: `https://github.com/argonne-lcf/ATPESC_MachineLearning` and hit `<enter>`.
+*  From here you can enter the url for the github repo: `https://github.com/venkat-1/AI4Science/Material_Science` and hit `<enter>`.
 ![open_github](README_imgs/colab_open_github.png)
 *  This will show you a list of the Notebooks available in the repo.
 *  Select the `introduction.ipynb` file to open and work through it.
